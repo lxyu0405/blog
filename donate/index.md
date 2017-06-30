@@ -16,8 +16,7 @@ header: 打赏
 
 点击上面小额赞助即可呦！
 <br>
-
->声明: 此博客空间用于分享作者个人的一些技术相关， 此网站基于[MIT开源协议](https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE)所有内容完全免费，请放心使用。
+>声明: 此博客空间用于分享作者个人的一些技术相关。内容转载需经作者同意，侵权必究。
 
 <hr>
 
@@ -27,7 +26,7 @@ header: 打赏
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.png' | prepend: site.baseurl }}" alt="支付宝二维码付款给lxyu0405" width="310" />
+<img src="{{ '/styles/images/alipay.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给lxyu0405" width="310" />
 
 <br>
 <br>
@@ -38,7 +37,7 @@ header: 打赏
 <hr>
 您可以选择手机微信扫一扫
 
-![微信二维码付款给lxyu0405]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+<img src="{{ '/styles/images/wechat-pay.jpg' | prepend: site.baseurl }}" alt="微信二维码付款给lxyu0405" width="310" />
 
 <br>
 <br>

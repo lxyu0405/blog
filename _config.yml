@@ -2,8 +2,8 @@
 name: Welcome! How are you
 email: xiaoyu.lu0405@gmail.com
 author: 晓宇Lu
-url: https://lxyu0405.github.io/blog/
-resume_site: https://lxyu0405.github.io/blog/
+url: https://lxyu0405.github.io/
+resume_site: https://lxyu0405.github.io/
 github: https://github.com/lxyu0405/
 baseurl: ""
 description: I'm fine, thank you! And you?   ——   套路
@@ -25,7 +25,7 @@ highlighter: rouge
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+# baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
 FB:
   comments :

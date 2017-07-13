@@ -14,7 +14,11 @@ tag: Jekyll
 Android Demos
 ------------------------
 
-<a href="{{ '/src/remusic.apk' | prepend: site.baseurl }}">仿网易云音乐</a>
+<a href="{{ '/src/remusic.apk' | prepend: site.baseurl }}">音乐库</a>
+
+<a href="{{ '/src/Order_Client.apk' | prepend: site.baseurl }}">订餐系统</a>
+
+<a href="{{ '/src/familyLibrary.apk' | prepend: site.baseurl }}">家庭图书馆</a>
 
 
 

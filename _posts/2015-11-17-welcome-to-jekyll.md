@@ -11,13 +11,16 @@ tag: Jekyll
 
 
 
-Jekyll Documents
+Android Demos
 ------------------------
 
 
-<a href="http://jekyllrb.com">jekyll</a>
+<a href="{{ '/src/othello.apk' | prepend: site.baseurl }}">黑白棋游戏</a>
+<a href="https://github.com/lxyu0405/AndroidOthello">Github</a>
 
-<a href="https://github.com/jekyll/jekyll">jekyll-gh</a>
 
-<a href="https://github.com/jekyll/jekyll-help">jekyll-help</a>
+<a href="{{ '/src/webalbum.apk' | prepend: site.baseurl }}">网络相册</a>
+<a href="https://github.com/lxyu0405/AndroidWebAlbum">Github</a>
+
+
 

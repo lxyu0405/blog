@@ -17,7 +17,8 @@ tag: Android
 <a href="https://github.com/dsknight/CampusMarket_Flames">github</a>
 
 ## Demo视频
-<embed src='http://player.youku.com/player.php/sid/XMjg4MTgwNDg4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
+<iframe height='498' width='510' src='http://player.youku.com/embed/XMjg4MTgwNDg4MA==' frameborder='0'></iframe>
 
 
 

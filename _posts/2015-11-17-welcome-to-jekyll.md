@@ -1,27 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-17 13:31:01 +0800
-categories: Jekyll
-tag: Jekyll
+title:  校园物品交换平台 -- 安卓客户端展示
+date:   2017-07-11 13:31:01 +0800
+categories: Android
+tag: Android
 ---
 
 * content
 {:toc}
 
 
+## apk下载
+<a href="{{ '/src/Market.apk' | prepend: site.baseurl }}">校园物品交换平台</a>
 
-Android Demos
-------------------------
+## Github地址
+<a href="https://github.com/dsknight/CampusMarket_Flames">github</a>
 
-<a href="{{ '/src/remusic.apk' | prepend: site.baseurl }}">音乐库</a>
-
-
-<a href="{{ '/src/Market.apk' | prepend: site.baseurl }}">market</a>
-
-
-<a href="{{ '/src/momo.apk' | prepend: site.baseurl }}">momo</a>
-
+## Demo视频
+<embed src='http://player.youku.com/player.php/sid/XMjg4MTgwNDg4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 
 
